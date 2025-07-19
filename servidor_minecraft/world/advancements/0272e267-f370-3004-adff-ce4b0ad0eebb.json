@@ -28,6 +28,7 @@
       "minecraft:sunflower_plains": "2025-07-19 21:24:35 +0000",
       "minecraft:dripstone_caves": "2025-07-19 20:52:08 +0000",
       "minecraft:forest": "2025-07-19 20:38:03 +0000",
+      "minecraft:ocean": "2025-07-19 23:47:04 +0000",
       "minecraft:meadow": "2025-07-19 20:34:44 +0000",
       "minecraft:plains": "2025-07-19 20:42:37 +0000"
     },
@@ -119,6 +120,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-19 23:45:16 +0000",
       "cooked_mutton": "2025-07-19 20:42:00 +0000",
       "cooked_beef": "2025-07-19 20:46:00 +0000",
       "beef": "2025-07-19 20:44:23 +0000",
@@ -1758,6 +1760,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-07-19 23:11:20 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-07-19 23:53:41 +0000"
     },
     "done": true
   },

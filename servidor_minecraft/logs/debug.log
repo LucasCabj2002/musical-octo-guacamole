@@ -5130,3 +5130,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [19Jul2025 23:44:59.771] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
 [19Jul2025 23:44:59.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Jul2025 23:44:59.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 23:48:15.947] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[19Jul2025 23:49:37.640] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[19Jul2025 23:49:49.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> encontre otra aldea
+[19Jul2025 23:49:55.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> yo igual
+[19Jul2025 23:49:59.763] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[19Jul2025 23:49:59.765] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[19Jul2025 23:49:59.765] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 23:49:59.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jul2025 23:50:04.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> una cerca de la costa
+[19Jul2025 23:50:11.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> es la que vi seguro
+[19Jul2025 23:50:14.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> si
+[19Jul2025 23:50:16.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> es
+[19Jul2025 23:52:38.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR was slain by Nightmare Stalker
+[19Jul2025 23:52:40.533] [Server thread/DEBUG] [twilightforest/]: Player MatiasTUMTUMSAUR (2d25ea1d-6f4b-3c87-905a-2b95ad64436d) respawned and received items held in storage
+[19Jul2025 23:53:24.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> dwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+[19Jul2025 23:53:26.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> q
+[19Jul2025 23:53:36.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> me desconecto un ratito
+[19Jul2025 23:53:41.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rufoogati has reached the goal [Exorcism]
+[19Jul2025 23:54:05.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MatiasTUMTUMSAUR lost connection: Disconnected
+[19Jul2025 23:54:05.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR left the game
+[19Jul2025 23:54:59.752] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[19Jul2025 23:54:59.754] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[19Jul2025 23:54:59.754] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jul2025 23:54:59.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

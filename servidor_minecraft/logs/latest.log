@@ -334,3 +334,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [19Jul2025 23:38:41.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> vamo al nether?
 [19Jul2025 23:38:52.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> despues de terminar mi casa
 [19Jul2025 23:39:02.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> deja esa cagada
+[19Jul2025 23:48:15.947] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[19Jul2025 23:49:37.640] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[19Jul2025 23:49:49.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> encontre otra aldea
+[19Jul2025 23:49:55.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> yo igual
+[19Jul2025 23:50:04.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> una cerca de la costa
+[19Jul2025 23:50:11.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> es la que vi seguro
+[19Jul2025 23:50:14.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> si
+[19Jul2025 23:50:16.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> es
+[19Jul2025 23:52:38.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR was slain by Nightmare Stalker
+[19Jul2025 23:53:24.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> dwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+[19Jul2025 23:53:26.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> q
+[19Jul2025 23:53:36.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> me desconecto un ratito
+[19Jul2025 23:53:41.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rufoogati has reached the goal [Exorcism]
+[19Jul2025 23:54:05.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MatiasTUMTUMSAUR lost connection: Disconnected
+[19Jul2025 23:54:05.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR left the game
