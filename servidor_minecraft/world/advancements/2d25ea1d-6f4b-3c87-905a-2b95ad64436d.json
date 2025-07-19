@@ -538,6 +538,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-19 20:48:53 +0000",
       "minecraft:spider": "2025-07-19 20:46:08 +0000",
+      "minecraft:wither_skeleton": "2025-07-19 21:40:41 +0000",
+      "minecraft:cave_spider": "2025-07-19 21:49:29 +0000",
       "minecraft:stray": "2025-07-19 21:28:38 +0000",
       "minecraft:zombie": "2025-07-19 20:46:33 +0000"
     },
