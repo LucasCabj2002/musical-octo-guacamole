@@ -269,3 +269,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [19Jul2025 22:36:05.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> ya vuelvo
 [19Jul2025 22:36:06.995] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rufoogati lost connection: Disconnected
 [19Jul2025 22:36:06.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rufoogati left the game
+[19Jul2025 23:09:43.598] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rufoogati[/127.219.70.58:35797] logged in with entity id 26162 at (240.88987319670898, 85.0, -297.3343661920174)
+[19Jul2025 23:09:43.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rufoogati joined the game
+[19Jul2025 23:09:59.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> ey
+[19Jul2025 23:10:03.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> q
+[19Jul2025 23:10:17.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> me voy a un bioma de robles oscuros
+[19Jul2025 23:10:24.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> para q
+[19Jul2025 23:12:15.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> q+
+[19Jul2025 23:12:18.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> es esa casa
+[19Jul2025 23:12:29.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> la casa que hago
+[19Jul2025 23:12:37.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rufoogati has reached the goal [Fighting Nightmares]
+[19Jul2025 23:12:51.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR was slain by rufoogati
+[19Jul2025 23:13:07.638] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23312, l='ServerLevel[world]', x=236.38, y=84.84, z=-305.50] died, message: 'Villager was slain by Zombie'
+[19Jul2025 23:13:32.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> ontas
+[19Jul2025 23:14:36.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> dormiii
