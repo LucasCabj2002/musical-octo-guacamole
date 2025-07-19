@@ -245,3 +245,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [19Jul2025 22:05:04.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> ok
 [19Jul2025 22:05:08.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rufoogati lost connection: Disconnected
 [19Jul2025 22:05:08.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rufoogati left the game
+[19Jul2025 22:29:07.742] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@58b61710[id=<null>,name=rufoogati,properties={},legacy=false] (/127.219.70.58:52057) lost connection: Disconnected
+[19Jul2025 22:29:18.342] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@249bb56f[id=<null>,name=rufoogati,properties={},legacy=false] (/127.219.70.58:54749) lost connection: Disconnected
+[19Jul2025 22:29:29.706] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rufoogati[/127.219.70.58:40893] logged in with entity id 16603 at (265.18504065863993, 88.0, -276.638173004188)
+[19Jul2025 22:29:29.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rufoogati joined the game
+[19Jul2025 22:29:44.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> ola mijo
+[19Jul2025 22:29:48.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> que
+[19Jul2025 22:30:01.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> estoy esperando q salgan del baño
+[19Jul2025 22:30:05.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> asi q juego un ratito
+[19Jul2025 22:30:12.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> q mrd
+[19Jul2025 22:30:21.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> ontas
+[19Jul2025 22:30:33.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> cerca de la aldea
+[19Jul2025 22:30:39.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> haciendo una casa
+[19Jul2025 22:31:17.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> dormi
+[19Jul2025 22:31:25.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> ok
+[19Jul2025 22:31:50.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> voy a hacer una granja de hierro
+[19Jul2025 22:31:55.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> necesito un zombi
+[19Jul2025 22:31:56.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> bien
+[19Jul2025 22:31:56.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> crj
+[19Jul2025 22:32:02.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> que
+[19Jul2025 22:32:10.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MatiasTUMTUMSAUR> usa un bote
+[19Jul2025 22:32:16.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> si pero el zombie digo
+[19Jul2025 22:36:05.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rufoogati> ya vuelvo
+[19Jul2025 22:36:06.995] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rufoogati lost connection: Disconnected
+[19Jul2025 22:36:06.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rufoogati left the game
