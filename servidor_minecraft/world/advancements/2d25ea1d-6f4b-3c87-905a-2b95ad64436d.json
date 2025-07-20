@@ -27,6 +27,7 @@
     "criteria": {
       "minecraft:taiga": "2025-07-13 23:27:54 +0000",
       "minecraft:sunflower_plains": "2025-07-19 21:23:26 +0000",
+      "minecraft:birch_forest": "2025-07-20 23:12:24 +0000",
       "minecraft:beach": "2025-07-20 00:17:25 +0000",
       "minecraft:river": "2025-07-13 23:29:17 +0000",
       "minecraft:stony_shore": "2025-07-20 22:28:09 +0000",
@@ -1635,9 +1636,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-07-20 23:11:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-07-20 20:42:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-07-20 23:20:13 +0000"
     },
     "done": true
   },
@@ -1668,6 +1681,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-07-20 21:03:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-20 23:18:53 +0000"
     },
     "done": true
   },
