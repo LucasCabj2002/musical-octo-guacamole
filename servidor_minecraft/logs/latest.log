@@ -349,3 +349,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [19Jul2025 23:53:41.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rufoogati has reached the goal [Exorcism]
 [19Jul2025 23:54:05.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MatiasTUMTUMSAUR lost connection: Disconnected
 [19Jul2025 23:54:05.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR left the game
+[19Jul2025 23:56:29.940] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rufoogati lost connection: Disconnected
+[19Jul2025 23:56:29.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rufoogati left the game
