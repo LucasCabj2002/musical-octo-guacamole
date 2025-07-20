@@ -5380,3 +5380,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [20Jul2025 00:44:59.760] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
 [20Jul2025 00:44:59.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Jul2025 00:44:59.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jul2025 00:49:59.754] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[20Jul2025 00:49:59.756] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[20Jul2025 00:49:59.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jul2025 00:49:59.766] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jul2025 00:50:42.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR fell from a high place
+[20Jul2025 00:50:43.435] [Server thread/DEBUG] [twilightforest/]: Player MatiasTUMTUMSAUR (2d25ea1d-6f4b-3c87-905a-2b95ad64436d) respawned and received items held in storage
+[20Jul2025 00:53:50.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR was slain by Wither Skeleton
+[20Jul2025 00:53:51.960] [Server thread/DEBUG] [twilightforest/]: Player MatiasTUMTUMSAUR (2d25ea1d-6f4b-3c87-905a-2b95ad64436d) respawned and received items held in storage
+[20Jul2025 00:53:56.135] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MatiasTUMTUMSAUR lost connection: Disconnected
+[20Jul2025 00:53:56.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR left the game
+[20Jul2025 00:54:27.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[20Jul2025 00:54:27.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Jul2025 00:54:27.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Jul2025 00:54:27.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Jul2025 00:54:27.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Jul2025 00:54:28.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Jul2025 00:54:28.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mofus_better_end_:broken_constellation
+[20Jul2025 00:54:28.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Jul2025 00:54:28.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[20Jul2025 00:54:28.048] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[20Jul2025 00:54:28.049] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[20Jul2025 00:54:28.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jul2025 00:54:28.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jul2025 00:54:28.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Jul2025 00:54:28.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Jul2025 00:54:28.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
+[20Jul2025 00:54:28.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Jul2025 00:54:28.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[20Jul2025 00:54:28.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20Jul2025 00:54:28.108] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

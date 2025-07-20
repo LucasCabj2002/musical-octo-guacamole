@@ -2,3 +2,22 @@
 [20Jul2025 00:09:07.938] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MatiasTUMTUMSAUR[/127.80.63.195:49123] logged in with entity id 42247 at (524.8278843983402, 63.0, -422.55377821197476)
 [20Jul2025 00:09:07.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR joined the game
 [20Jul2025 00:29:35.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR has made the advancement [Dark Metallurgy]
+[20Jul2025 00:50:42.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR fell from a high place
+[20Jul2025 00:53:50.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR was slain by Wither Skeleton
+[20Jul2025 00:53:56.135] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MatiasTUMTUMSAUR lost connection: Disconnected
+[20Jul2025 00:53:56.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR left the game
+[20Jul2025 00:54:27.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[20Jul2025 00:54:27.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Jul2025 00:54:27.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Jul2025 00:54:27.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Jul2025 00:54:27.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Jul2025 00:54:28.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Jul2025 00:54:28.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mofus_better_end_:broken_constellation
+[20Jul2025 00:54:28.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Jul2025 00:54:28.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[20Jul2025 00:54:28.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Jul2025 00:54:28.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Jul2025 00:54:28.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
+[20Jul2025 00:54:28.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Jul2025 00:54:28.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[20Jul2025 00:54:28.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
