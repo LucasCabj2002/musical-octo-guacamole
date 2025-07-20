@@ -133,3 +133,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [20Jul2025 20:34:31.545] [Worker-Main-10/INFO] [citadel/]: merged 6 surface rules with vanilla rule SequenceRuleSource
 [20Jul2025 20:35:47.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR drowned
 [20Jul2025 21:03:25.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR has made the advancement [Diamonds!]
+[20Jul2025 21:25:35.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR has made the advancement [Ice Bucket Challenge]

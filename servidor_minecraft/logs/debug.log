@@ -2609,3 +2609,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [20Jul2025 21:15:35.339] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
 [20Jul2025 21:15:35.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Jul2025 21:15:35.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jul2025 21:20:35.335] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[20Jul2025 21:20:35.338] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[20Jul2025 21:20:35.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jul2025 21:20:35.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jul2025 21:25:35.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR has made the advancement [Ice Bucket Challenge]
+[20Jul2025 21:25:35.341] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[20Jul2025 21:25:35.345] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[20Jul2025 21:25:35.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jul2025 21:25:35.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
