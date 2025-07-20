@@ -27,6 +27,7 @@
     "criteria": {
       "minecraft:taiga": "2025-07-13 23:27:54 +0000",
       "minecraft:sunflower_plains": "2025-07-19 21:23:26 +0000",
+      "minecraft:beach": "2025-07-20 00:17:25 +0000",
       "minecraft:river": "2025-07-13 23:29:17 +0000",
       "minecraft:dripstone_caves": "2025-07-19 21:36:11 +0000",
       "minecraft:forest": "2025-07-13 23:24:31 +0000",
@@ -361,8 +362,10 @@
       "cooked_beef": "2025-07-19 20:44:48 +0000",
       "beef": "2025-07-13 23:31:02 +0000",
       "apple": "2025-07-19 21:08:34 +0000",
+      "potato": "2025-07-20 00:21:52 +0000",
       "mutton": "2025-07-19 20:38:00 +0000",
       "golden_apple": "2025-07-19 21:35:18 +0000",
+      "bread": "2025-07-20 00:21:56 +0000",
       "rotten_flesh": "2025-07-19 20:54:01 +0000"
     },
     "done": false
@@ -1366,6 +1369,18 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-07-19 23:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-20 00:23:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-20 00:23:33 +0000"
     },
     "done": true
   },
