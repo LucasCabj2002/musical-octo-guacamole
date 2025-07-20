@@ -6975,3 +6975,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [20Jul2025 23:30:35.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Jul2025 23:30:35.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Jul2025 23:30:40.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR has made the advancement [Life turned out to be a comedy]
+[20Jul2025 23:35:35.332] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[20Jul2025 23:35:35.334] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[20Jul2025 23:35:35.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jul2025 23:35:35.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jul2025 23:40:35.334] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[20Jul2025 23:40:35.336] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[20Jul2025 23:40:35.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jul2025 23:40:35.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
