@@ -542,6 +542,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-19 20:48:53 +0000",
       "minecraft:spider": "2025-07-19 20:46:08 +0000",
+      "minecraft:creeper": "2025-07-20 00:25:02 +0000",
       "minecraft:wither_skeleton": "2025-07-19 21:40:41 +0000",
       "minecraft:cave_spider": "2025-07-19 21:49:29 +0000",
       "minecraft:stray": "2025-07-19 21:28:38 +0000",
@@ -1369,6 +1370,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-07-19 23:44:28 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-07-20 00:29:35 +0000"
     },
     "done": true
   },

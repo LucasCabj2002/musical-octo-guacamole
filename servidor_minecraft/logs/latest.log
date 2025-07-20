@@ -1,3 +1,4 @@
 [20Jul2025 00:09:01.480] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6494eec4[id=<null>,name=MatiasTUMTUMSAUR,properties={},legacy=false] (/127.80.63.195:34309) lost connection: Disconnected
 [20Jul2025 00:09:07.938] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MatiasTUMTUMSAUR[/127.80.63.195:49123] logged in with entity id 42247 at (524.8278843983402, 63.0, -422.55377821197476)
 [20Jul2025 00:09:07.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR joined the game
+[20Jul2025 00:29:35.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR has made the advancement [Dark Metallurgy]
