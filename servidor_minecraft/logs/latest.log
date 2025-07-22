@@ -148,3 +148,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [22Jul2025 01:11:38.083] [Worker-Main-45/INFO] [citadel/]: merged 6 surface rules with vanilla rule SequenceRuleSource
 [22Jul2025 02:09:24.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR has made the advancement [The Wind Darkening]
 [22Jul2025 02:26:50.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR withered away
+[22Jul2025 02:39:04.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatiasTUMTUMSAUR) moved wrongly! 0.25963445439424504
+[22Jul2025 02:39:04.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatiasTUMTUMSAUR) moved wrongly! 0.5953229840150698
+[22Jul2025 02:39:04.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatiasTUMTUMSAUR) moved wrongly! 0.9495676982927534
+[22Jul2025 02:39:04.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatiasTUMTUMSAUR) moved wrongly! 1.0
+[22Jul2025 02:39:37.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatiasTUMTUMSAUR) moved wrongly! 0.2944273931476573
+[22Jul2025 02:39:37.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatiasTUMTUMSAUR) moved wrongly! 0.7879350031603849
