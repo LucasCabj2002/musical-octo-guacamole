@@ -2452,9 +2452,45 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:sweet_battle": {
+    "criteria": {
+      "sweet_battle_0": "2025-07-22 20:09:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-07-22 19:59:49 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_0": "2025-07-22 20:06:51 +0000",
+      "trickor_treat_2": "2025-07-22 20:06:51 +0000",
+      "trickor_treat_3": "2025-07-22 20:06:51 +0000",
+      "trickor_treat_4": "2025-07-22 20:06:51 +0000",
+      "trickor_treat_5": "2025-07-22 20:06:51 +0000",
+      "trickor_treat_6": "2025-07-22 20:06:51 +0000",
+      "trickor_treat_7": "2025-07-22 20:06:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-07-22 20:08:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-07-22 20:08:39 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pumpkin_sir": {
+    "criteria": {
+      "pumpkin_sir_0": "2025-07-22 20:05:58 +0000"
     },
     "done": true
   },
@@ -2463,6 +2499,12 @@
       "has_chicken": "2025-07-22 19:47:16 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2025-07-22 20:05:59 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
