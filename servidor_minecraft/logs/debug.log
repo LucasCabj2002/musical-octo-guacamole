@@ -2570,3 +2570,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [22Jul2025 00:45:55.806] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [22Jul2025 00:47:36.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Jul2025 00:47:36.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 00:52:36.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 00:52:36.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 00:54:47.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR has made the advancement [Pic-A-Nic Basket?]
+[22Jul2025 00:56:10.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatiasTUMTUMSAUR) moved wrongly! 0.2636193296781357
+[22Jul2025 00:56:10.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatiasTUMTUMSAUR) moved wrongly! 0.6162062806042172
+[22Jul2025 00:56:10.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatiasTUMTUMSAUR) moved wrongly! 0.9593549957265282
+[22Jul2025 00:56:10.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatiasTUMTUMSAUR) moved wrongly! 1.237775587782096
+[22Jul2025 00:56:10.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatiasTUMTUMSAUR) moved wrongly! 1.4894145386430198
+[22Jul2025 00:57:36.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 00:57:36.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

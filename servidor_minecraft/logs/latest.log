@@ -129,3 +129,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [22Jul2025 00:42:36.861] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [22Jul2025 00:45:47.500] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MatiasTUMTUMSAUR[/127.80.63.195:41561] logged in with entity id 125 at (303.7973895996285, 57.0, -173.91316518292038)
 [22Jul2025 00:45:47.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR joined the game
+[22Jul2025 00:54:47.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MatiasTUMTUMSAUR has made the advancement [Pic-A-Nic Basket?]
+[22Jul2025 00:56:10.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatiasTUMTUMSAUR) moved wrongly! 0.2636193296781357
+[22Jul2025 00:56:10.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatiasTUMTUMSAUR) moved wrongly! 0.6162062806042172
+[22Jul2025 00:56:10.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatiasTUMTUMSAUR) moved wrongly! 0.9593549957265282
+[22Jul2025 00:56:10.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatiasTUMTUMSAUR) moved wrongly! 1.237775587782096
+[22Jul2025 00:56:10.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatiasTUMTUMSAUR) moved wrongly! 1.4894145386430198
