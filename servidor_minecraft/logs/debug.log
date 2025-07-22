@@ -2580,3 +2580,38 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [22Jul2025 00:56:10.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatiasTUMTUMSAUR) moved wrongly! 1.4894145386430198
 [22Jul2025 00:57:36.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Jul2025 00:57:36.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 01:02:36.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 01:02:36.856] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 01:07:36.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 01:07:36.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 01:09:43.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatiasTUMTUMSAUR) moved wrongly! 0.25110836249018575
+[22Jul2025 01:09:43.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatiasTUMTUMSAUR) moved wrongly! 0.7719439248265303
+[22Jul2025 01:09:43.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatiasTUMTUMSAUR) moved wrongly! 0.30819599466546777
+[22Jul2025 01:09:43.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatiasTUMTUMSAUR) moved wrongly! 0.8526971302970452
+[22Jul2025 01:09:43.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatiasTUMTUMSAUR) moved wrongly! 0.40187853166597165
+[22Jul2025 01:09:43.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatiasTUMTUMSAUR) moved wrongly! 0.9536845248786676
+[22Jul2025 01:09:43.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatiasTUMTUMSAUR) moved wrongly! 0.5068948848582551
+[22Jul2025 01:09:43.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatiasTUMTUMSAUR) moved wrongly! 1.060856693494756
+[22Jul2025 01:09:43.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatiasTUMTUMSAUR) moved wrongly! 0.5104272477737339
+[22Jul2025 01:09:44.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of MatiasTUMTUMSAUR) moved wrongly! 0.5108966608162575
+[22Jul2025 01:11:36.615] [Worker-Main-12/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from mixins.mofus_better_end_.json into net.minecraft.world.level.levelgen.NoiseChunk
+[22Jul2025 01:11:36.767] [Worker-Main-12/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[22Jul2025 01:11:37.276] [Worker-Main-35/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[22Jul2025 01:11:38.083] [Worker-Main-45/INFO] [citadel/]: merged 6 surface rules with vanilla rule SequenceRuleSource
+[22Jul2025 01:11:38.084] [Worker-Main-45/DEBUG] [citadel/]: surface rule recursive depth: 15
+[22Jul2025 01:12:36.843] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[22Jul2025 01:12:36.847] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[22Jul2025 01:12:36.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 01:12:36.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 01:17:36.841] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[22Jul2025 01:17:36.844] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[22Jul2025 01:17:36.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 01:17:36.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 01:22:36.843] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[22Jul2025 01:22:36.846] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[22Jul2025 01:22:36.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 01:22:36.856] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 01:27:36.839] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[22Jul2025 01:27:36.842] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[22Jul2025 01:27:36.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 01:27:36.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
